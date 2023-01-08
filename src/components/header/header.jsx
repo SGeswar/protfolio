@@ -10,7 +10,7 @@ const index = () => {
       <div className="container header__container">
         <h5>Hello there</h5>
         <h5>I am</h5>
-        <h1>Gnaneswar</h1>
+        <h1>Gnaneswar.</h1>
         <CTA/>
         <div className='me'>
           <img className='mee' src={logo} alt='logo'/>
